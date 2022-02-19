@@ -44,3 +44,10 @@ yc compute instance create \
 - Service account was created
 - Packer template has been written
 - Variables were moved to a separate json-file
+
+# terraform-1
+- Terraform manifests has been written
+- Input variables
+- Output variables
+- tfvars file
+- Provisioners
