@@ -51,3 +51,7 @@ yc compute instance create \
 - Output variables
 - tfvars file
 - Provisioners
+
+# terraform-2
+- Terraform modules
+- Environment configurations
