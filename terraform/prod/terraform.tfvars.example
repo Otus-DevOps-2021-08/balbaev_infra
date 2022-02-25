@@ -1,0 +1,7 @@
+cloud_id                 = "u1gi723q1fks7us5dnjm"
+folder_id                = "u2nc549pfvg37g1g1i06"
+image_id                 = "hn9fiuga20t3dcil2fo8"
+public_key_path          = "terraform/files/terraform.pub"
+subnet_id                = "e9bitokpcaa1mpfm9h43"
+service_account_key_file = "packer/key.json.example"
+private_key_path         = "terraform/files/terraform"
